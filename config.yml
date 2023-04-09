@@ -27,12 +27,12 @@ menu:
 
 
 params:
-    author: Author's Name
+    author: Dara Adedeji
 
 
     defaultTheme: auto
     # disableThemeToggle: true
-    ShowShareButtons: true
+    # ShowShareButtons: true
     ShowReadingTime: true
     displayFullLangName: true
     ShowBreadCrumbs: true
@@ -42,11 +42,10 @@ params:
     profileMode:
         # Disable to populate home page with 'mainSections' content
         enabled: true
-        title: Joe Doe
+        title: Dara Adedeji
         description: |
 
-          Hello, I am Joe.
-           I am a software developer. 
+          I am quite a silly billy. 
         
 
           This is a minimalistic theme template for websites.
@@ -65,8 +64,8 @@ params:
           url: "https://ko-fi.com/heycharlola"
         - name: github
           url: "https://github.com/charlola"
-        - name: linkedin
-          url: "https://www.linkedin.com/in/heycharlola/"
+        # - name: linkedin
+        #   url: "https://www.linkedin.com/in/heycharlola/"
 
       # add more social icons. find more in svg.html file
       # - name: youtube
