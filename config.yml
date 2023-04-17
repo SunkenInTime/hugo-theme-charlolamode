@@ -1,5 +1,5 @@
-baseURL: # if your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
-title: charlola.mode
+baseURL: https://me.daracloud.uk
+title: My Website
 paginate: 5
 theme: charlolamode
 
@@ -16,8 +16,12 @@ menu:
         - name: Projects
           url: /projects/
           weight: 15
+        # - name: Privacy Policy
+        #   url: /privacy-policies/
+        #   wieght: 35
 
-     # - name: Categories
+
+        # - name: Categories
         #   url: /categories/
         #   weight: 10
         # - name: new Tab
@@ -37,7 +41,7 @@ params:
     displayFullLangName: true
     ShowBreadCrumbs: true
     ShowCodeCopyButtons: true
-    ShowToc: true
+    # ShowToc: true
 
     profileMode:
         # Disable to populate home page with 'mainSections' content
@@ -45,11 +49,9 @@ params:
         title: Dara Adedeji
         description: |
 
-          I am quite a silly billy. 
+          I love technology
         
-
-          This is a minimalistic theme template for websites.
-        imageUrl: "/images/profile.png"
+        imageUrl: "/images/myprofile.png"
         imageTitle: my image
         # imageWidth: 120
         # imageHeight: 120
@@ -58,12 +60,15 @@ params:
               url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
     mainSections:
       - articles
+      - projects
 
     socialIcons:
         - name: buymeacoffee
-          url: "https://ko-fi.com/heycharlola"
+          url: "https://www.buymeacoffee.com/sunkenintime"
         - name: github
-          url: "https://github.com/charlola"
+          url: "https://github.com/sunkenintime"
+        # - name: youtube
+        #   url: ""
         # - name: linkedin
         #   url: "https://www.linkedin.com/in/heycharlola/"
 
