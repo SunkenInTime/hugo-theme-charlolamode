@@ -4,11 +4,11 @@ dateMonthYear: April 15 2023
 # description: A mobile to-do and notes app available on both the Play Store and App Store.
 type: page
 topic: Support
-image: "/images/grade-aid-banner.jpg"
+image: "/images/grade-aid-icon.jpg"
 ---
 **Privacy Policy**
 
-Sunken In Time built the Grade Aid app as an Open Source app. This SERVICE is provided by Sunken In Time at no cost and is intended for use as is. Grade Aid or HC Grade Aid is not associated or sponsored by Howard County Public School System and is a personal project.
+Sunken In Time built the Grade Aid app as personal project. This SERVICE is provided by Sunken In Time at no cost and is intended for use as is. Grade Aid or HC Grade Aid is not associated or sponsored by Howard County Public School System and is a personal project.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
@@ -57,7 +57,7 @@ I do not knowingly collect personally identifiable information from children. I 
 
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of 2023-04-16
+This policy is effective as of 2023-12-07
 
 **Contact Us**
 
